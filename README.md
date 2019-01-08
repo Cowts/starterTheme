@@ -1,0 +1,2 @@
+# starterTheme
+Cowts Starter Theme
